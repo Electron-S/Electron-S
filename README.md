@@ -2,15 +2,13 @@
 
 <img src="img/workshop-banner-en.png" width="100%" alt="Electron-S — AI Engineer / Tool Builder. Turning ideas into working tools." />
 
-[**프로젝트 둘러보기 ↗**](https://github.com/Electron-S?tab=repositories) &nbsp; · &nbsp; [**기여 기록 ↗**](https://github.com/Electron-S?tab=overview)
+[**Explore Projects ↗**](https://github.com/Electron-S?tab=repositories) &nbsp; · &nbsp; [**Contributions ↗**](https://github.com/Electron-S?tab=overview)
 
 <img src="img/electron-divider.svg" width="100%" alt="" />
 
 ## GitHub Stats
 
 <a href="https://github.com/Electron-S?tab=overview"><img src="https://github-readme-streak-stats-eight.vercel.app?user=Electron-S&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="495" alt="GitHub 전체 기여 수, 현재 연속 기여일, 최장 연속 기여일" /></a>
-
-<br/>
 
 ## My Toolbox
 
