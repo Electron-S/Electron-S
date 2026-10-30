@@ -10,16 +10,9 @@ AI 에이전트부터 음성 인식, 콘텐츠 자동화, 개발 도구까지.<b
 
 <img src="img/electron-divider.svg" width="100%" alt="" />
 
-## Selected Projects
+## GitHub Stats
 
-만들고, 사용하고, 개선하는 도구들
-
-<p>
-<a href="https://github.com/Electron-S/speech-to-text"><img src="img/project-speech-to-text.svg" width="400" alt="speech-to-text — 한국어 녹음 전사, 화자 구분, 타임스탬프. 저장소 열기" /></a>
-<a href="https://github.com/Electron-S/socratic-claude"><img src="img/project-socratic-claude.svg" width="400" alt="socratic-claude — 숨은 전제를 검토하는 Claude Code 플러그인. 저장소 열기" /></a>
-<a href="https://github.com/Electron-S/photo-blog-agent"><img src="img/project-photo-blog-agent.svg" width="400" alt="photo-blog-agent — 사진 블로그 자동화 워크플로. 저장소 열기" /></a>
-<a href="https://github.com/Electron-S/md-viewer"><img src="img/project-md-viewer.svg" width="400" alt="md-viewer — Markdown 뷰어와 편집 도구. 저장소 열기" /></a>
-</p>
+<a href="https://github.com/Electron-S?tab=overview"><img src="https://github-readme-streak-stats-eight.vercel.app?user=Electron-S&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="495" alt="GitHub 전체 기여 수, 현재 연속 기여일, 최장 연속 기여일" /></a>
 
 <br/>
 
