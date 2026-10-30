@@ -40,4 +40,13 @@ body='''<style>@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}@keyframes or
 <ellipse cx="450" cy="32" rx="52" ry="17" transform="rotate(-25 450 32)" fill="none" stroke="#58a6ff" opacity=".4"/>
 <circle cx="450" cy="32" r="6" fill="#79c0ff" class="light"/><g class="orb"><circle cx="479" cy="32" r="3" fill="#bc9cff"/></g>'''
 (IMG/'electron-divider.svg').write_text(svg(900,64,'Electron orbit',body))
-print('Built 4 project cards, 2 technology strips, and animated divider.')
+body='''<style>@keyframes signal{to{stroke-dashoffset:-940}}@keyframes core{0%,100%{opacity:.45}50%{opacity:1}}.signal{stroke-dasharray:36 904;animation:signal 7s linear infinite}.core{animation:core 3s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.signal,.core{animation:none}}</style>
+<defs><path id="trace" d="M0 32H300L318 14H367L385 32H515L533 50H582L600 32H900"/></defs>
+<use href="#trace" fill="none" stroke="#263d59" stroke-width="1.5"/>
+<use href="#trace" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linecap="round" class="signal"/>
+<path d="M410 22v20m80-20v20M439 8v8m11-8v8m11-8v8m-22 32v8m11-8v8m11-8v8" stroke="#42668c" stroke-width="2"/>
+<rect x="427" y="16" width="46" height="32" rx="7" fill="#111c2c" stroke="#58a6ff"/>
+<path d="m442 26-6 6 6 6m16-12 6 6-6 6m-6-14-4 16" fill="none" stroke="#79c0ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="core"/>
+<circle cx="318" cy="14" r="3" fill="#58a6ff"/><circle cx="582" cy="50" r="3" fill="#42d6b0"/>'''
+(IMG/'circuit-divider.svg').write_text(svg(900,64,'Circuit signal',body))
+print('Built 4 project cards, 2 technology strips, and 2 animated dividers.')

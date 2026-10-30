@@ -23,7 +23,7 @@ AI 에이전트부터 음성 인식, 콘텐츠 자동화, 개발 도구까지.<b
 <img src="img/tech-stack-2.svg" width="368" alt="Node.js · Docker · Git · GitHub" />
 </p>
 
-<img src="img/electron-divider.svg" width="100%" alt="" />
+<img src="img/circuit-divider.svg" width="100%" alt="" />
 
 ## A Little, Every Day
 
