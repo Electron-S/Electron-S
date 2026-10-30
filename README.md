@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="img/workshop-banner.png" width="100%" alt="Electron-S — AI Engineer / Tool Builder. 아이디어를 작동하는 도구로 만듭니다." />
-
-### 작은 불편을 발견하고, 쓸모 있는 도구로 만듭니다.
-
-AI 에이전트부터 음성 인식, 콘텐츠 자동화, 개발 도구까지.<br/>Python과 TypeScript로 일상과 작업을 조금 더 편하게 만드는 실험을 합니다.
+<img src="img/workshop-banner-en.png" width="100%" alt="Electron-S — AI Engineer / Tool Builder. Turning ideas into working tools." />
 
 [**프로젝트 둘러보기 ↗**](https://github.com/Electron-S?tab=repositories) &nbsp; · &nbsp; [**기여 기록 ↗**](https://github.com/Electron-S?tab=overview)
 

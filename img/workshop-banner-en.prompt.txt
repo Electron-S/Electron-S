@@ -1,0 +1,4 @@
+Edited using the built-in image generation tool.
+Reference: img/workshop-banner.png
+
+Use case: text-localization. Edit the provided GitHub banner image. Change ONLY the Korean subtitle underneath "AI ENGINEER / TOOL BUILDER" to the exact English text "Turning ideas into working tools." in clean light gray sans-serif type, same location, left alignment and similar visual size. Preserve the entire rest of the image: Electron-S heading, blue AI ENGINEER / TOOL BUILDER heading, exact robot identity and pose, workshop, laptop, holograms, circuits, lighting, colors, composition, and wide 3:1 aspect ratio. No Korean text should remain. Do not redesign or crop. The sole requested change is the subtitle language.
