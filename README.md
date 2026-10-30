@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/workshop-banner-en.png" width="100%" alt="Electron-S — AI Engineer / Tool Builder. Turning ideas into working tools." />
+<img src="img/ai-network-banner.png" width="100%" alt="Electron-S — AI Engineer / Tool Builder. Turning ideas into working tools." />
 
 <img src="img/circuit-divider.svg" width="100%" alt="" />
 
