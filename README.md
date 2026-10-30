@@ -2,7 +2,7 @@
 
 <img src="img/workshop-banner-en.png" width="100%" alt="Electron-S — AI Engineer / Tool Builder. Turning ideas into working tools." />
 
-<img src="img/electron-divider.svg" width="100%" alt="" />
+<img src="img/circuit-divider.svg" width="100%" alt="" />
 
 [**Explore Projects ↗**](https://github.com/Electron-S?tab=repositories) &nbsp; · &nbsp; [**Contributions ↗**](https://github.com/Electron-S?tab=overview)
 
@@ -17,7 +17,7 @@
 <img src="img/tech-stack-2.svg" width="368" alt="Node.js · Docker · Git · GitHub" />
 </p>
 
-<img src="img/circuit-divider.svg" width="100%" alt="" />
+<img src="img/electron-divider.svg" width="100%" alt="" />
 
 ## A Little, Every Day
 
