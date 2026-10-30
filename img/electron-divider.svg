@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-label="Electron orbit"><title>Electron orbit</title><style>@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}@keyframes orbit{to{transform:rotate(360deg)}}.orb{transform-origin:450px 32px;animation:orbit 12s linear infinite}.light{animation:pulse 4s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.orb,.light{animation:none}}</style>
+<path d="M0 32h370m160 0h370" stroke="#263d59"/><path d="M310 32h60m160 0h60" stroke="#58a6ff" class="light"/>
+<ellipse cx="450" cy="32" rx="52" ry="17" fill="none" stroke="#58a6ff" opacity=".65"/>
+<ellipse cx="450" cy="32" rx="52" ry="17" transform="rotate(-25 450 32)" fill="none" stroke="#58a6ff" opacity=".4"/>
+<circle cx="450" cy="32" r="6" fill="#79c0ff" class="light"/><g class="orb"><circle cx="479" cy="32" r="3" fill="#bc9cff"/></g></svg>

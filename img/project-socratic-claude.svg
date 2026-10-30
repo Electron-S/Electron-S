@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="240" viewBox="0 0 560 240" role="img" aria-label="socratic-claude — 답하기 전에, 전제부터 질문합니다"><title>socratic-claude — 답하기 전에, 전제부터 질문합니다</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#142338"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+ <rect x="1" y="1" width="558" height="238" rx="18" fill="url(#bg)" stroke="#303d50"/>
+ <path d="M22 1h95" stroke="#bc9cff" stroke-width="3"/>
+ <text x="26" y="35" fill="#bc9cff" font-family="Segoe UI,Arial,Noto Sans KR,sans-serif" font-size="12" letter-spacing="2">02 / REASONING AGENTS</text>
+ <g transform="translate(478 24)" fill="none" stroke="#bc9cff" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"><path d="M6 7h34v26H23L12 43V33H6Z M19 17c0-8 12-8 12 0 0 5-6 4-6 9m0 4v1"/></g>
+ <text x="26" y="82" fill="#f0f6fc" font-family="Segoe UI,Arial,Noto Sans KR,sans-serif" font-size="29" font-weight="700">socratic-claude</text>
+ <text x="26" y="119" fill="#e6edf3" font-family="Segoe UI,Arial,Noto Sans KR,sans-serif" font-size="21" font-weight="600">답하기 전에, 전제부터 질문합니다</text>
+ <text x="26" y="150" fill="#a9b9cc" font-family="Segoe UI,Arial,Noto Sans KR,sans-serif" font-size="17">숨은 전제를 검토하는 Claude Code 플러그인</text>
+ <path d="M26 177h508" stroke="#26364a"/>
+ <text x="26" y="210" fill="#bc9cff" font-family="Segoe UI,Arial,Noto Sans KR,sans-serif" font-size="14">Python / Claude Code / Agents</text>
+ <path d="M505 204h20m-6-6 6 6-6 6" stroke="#bc9cff" stroke-width="2" fill="none"/></svg>
